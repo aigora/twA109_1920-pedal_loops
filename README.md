@@ -1,11 +1,20 @@
-# Título del trabajo
+# Pedal loops
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El proyecto consiste en hacer un pedal de loops(son pedales que graban pistas de audio y las reproducen en bucle (loop)).
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Yikai, Zhan
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+El objetivo del proyecto consiste en hacer una programa con la hardware simular una pedal loops.
+
+## Relación de elementos hardware previstos, sensores y actuadores
+
+Un pc, arduinos, "reproductor del audio", "grabador", "pedal".
+
+## Tecnologías y herramientas software previstas
+
+Lenguaje C, processing.
+
