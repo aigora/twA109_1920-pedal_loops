@@ -1,6 +1,6 @@
 # sparkanoid
 
-El proyecto consiste en hacer un sparkanoid().
+El proyecto consiste en hacer un sparkanoid.
 
 ## Integrantes del equipo
 
@@ -8,7 +8,7 @@ Yikai, Zhan
 
 ## Objetivos del trabajo
 
-El objetivo del proyecto consiste en hacer una programa simular un sparkanoid.
+El objetivo del proyecto consiste en hacer una programa simular un sparkanoid, un juego consiste en lanzar una pelota para romper los radrillos.
 
 ## Relación de elementos hardware previstos, sensores y actuadores
 
