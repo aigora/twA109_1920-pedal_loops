@@ -16,23 +16,19 @@ Un pc(Debido la situación estamos enfrentando).
 
 ## Tecnologías y herramientas software previstas
 
-Lenguaje C, processing.
+Processing.
 
 ## Subprogramas
 
--Una función para menú
+-Una función establece los muros
 
--Una función para mostrar los radrillos
+-Una función para mostrar los ladrillos
 
--Una función hace que la plataforma se mueve
+-Una función hace que la plataforma se mueve y lanza la bola
 
--Una función para lanzar la pelota
+-Una función hace que la pelota mueve y rebota
 
--Una función hace que la pelota mueve
-
--Una función hace que la pelota rebota
-
--Una función hace que la pelota rompe los radrillos tocado
+-Una función hace que la pelota rompe los ladrillos tocado
 
 -Una función hace que la pelota vuelve a la plataforma cuando cae fuera
 
