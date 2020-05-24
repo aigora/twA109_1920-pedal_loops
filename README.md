@@ -12,7 +12,7 @@ El objetivo del proyecto consiste en hacer una programa simular un sparkanoid, u
 
 ## Relación de elementos hardware previstos, sensores y actuadores
 
-Un pc(Debido la situación estamos enfrentando).
+Un pc con teclado controla la partida.
 
 ## Tecnologías y herramientas software previstas
 
