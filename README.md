@@ -8,7 +8,7 @@ Yikai, Zhan
 
 ## Objetivos del trabajo
 
-El objetivo del proyecto consiste en hacer una programa simular un sparkanoid, un juego consiste en lanzar una pelota para romper los radrillos.
+El objetivo del proyecto consiste en hacer una programa simular un juego llamado sparkanoid, que es un juego consiste en lanzar una bola para romper los ladrillos.
 
 ## Relación de elementos hardware previstos, sensores y actuadores
 
