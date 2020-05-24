@@ -521,7 +521,7 @@ void condicion()// Una función para establece los condición inicial
                 inicio = 0;
                 break;
         case 'p':
-        case 'P':exit();
+        case 'P':exit(); //salir de la programa
                  break;
      }
    }
